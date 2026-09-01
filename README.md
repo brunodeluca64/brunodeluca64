@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou Bruno 👋
 
-<!--
-**brunodeluca64/brunodeluca64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔄 Profissional de Suporte & Gestão de Acesso migrando para desenvolvimento backend.
 
-Here are some ideas to get you started:
+🎓 Formado em Análise e Desenvolvimento de Sistemas (UNICID, 2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando:
+- Python e desenvolvimento de APIs REST
+
+💡 Interesse principal: **Backend & APIs**
+
+🌱 Migrando de carreira e documentando aqui meus projetos e evolução no código.
+
+📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/bruno-almeida-2bbb5215a/)
+
+---
+⭐ Fique à vontade para conferir meus repositórios e acompanhar meu progresso!
